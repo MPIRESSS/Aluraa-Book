@@ -1,0 +1,12 @@
+:root{ 
+:var(--cor-de-fundo): #ebecee;
+}
+body{
+background-color: beige;
+}
+<body>
+<h1>Alura Book</h1>
+</body>
+h1 { 
+background-color: White; 
+}
